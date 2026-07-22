@@ -8,6 +8,8 @@ Obtener por Id
 
 Ingresar Estudiantes
 http://168.231.75.12/api/estudiantes
+<img width="1072" height="756" alt="image" src="https://github.com/user-attachments/assets/7054a764-e1fc-4604-94f6-a6009b1309e8" />
+
 
 Buscar por nombre
 http://168.231.75.12:8088/api/estudiantes/nombre/Maria
