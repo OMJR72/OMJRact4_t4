@@ -1,0 +1,15 @@
+info:
+  name: ObtenerPorApellido
+  type: http
+  seq: 5
+
+http:
+  method: GET
+  url: http://168.231.75.12:8088/api/estudiantes/apellido/Hernández
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

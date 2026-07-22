@@ -1,0 +1,15 @@
+info:
+  name: Borrarporid
+  type: http
+  seq: 13
+
+http:
+  method: DELETE
+  url: http://168.231.75.12:8088/api/estudiantes/5
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5
